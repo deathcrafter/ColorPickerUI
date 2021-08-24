@@ -2,7 +2,7 @@
 
 An ColorPicker for skin authors with a lot of options. Happy skinning!
 
-![Preview](Assets/preview.mp4)
+https://user-images.githubusercontent.com/77834863/130698700-22820e92-09ed-4825-bda5-6055dae09a88.mp4
 
 ## Usage Instructions:
 
