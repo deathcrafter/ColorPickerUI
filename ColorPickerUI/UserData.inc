@@ -1,10 +1,10 @@
 [Variables]
 FilePath=C:\Users\sahoo\OneDrive\Documents\Rainmeter\Skins\ColorPickerUIExample\ColorPickerUIExample.ini
 ConfigName=ColorPickerUIExample
-SectionName=MeterImage
+SectionName=MeterImage2
 OptionName=SolidColor
-Format=hexa
-PreviousColor=00FF5B6B
+Format=rgb
+PreviousColor=35,56,207
 ScriptMeasure=ColorPicker
 Theme=Dark
 Animations=2
