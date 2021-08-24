@@ -124,5 +124,9 @@ RegValue=AppsUseLightTheme
 Substitute="1":"Light", "0":"Dark"
 ```
 
+## Credits:
+- **JSMorely** for **CursorColor Plugin**
+- **NightHawkSLO** for **Mouse Plugin**
+
 ## Bug Reports:
 This being a new skin and a complex one, bugs might spring up. Please open an issue here and let me know. Thank you.😀
