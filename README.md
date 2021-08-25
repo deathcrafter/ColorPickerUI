@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/77834863/130698700-22820e92-09ed-4825-
  
 - `Dependencies`:
   
-  Then include the SegoeIcons.ttf font file in `@Resources\Fonts`. You can find the file in resources folder of example skin or Fonts folder inside ColorPickerUI directory.
+  Then include the **_SegoeIcons.ttf_** font file in `@Resources\Fonts`. You can find the file in resources folder of example skin or Fonts folder inside ColorPickerUI directory.
 
 ### Options:
 - `OnFinishAction`:
