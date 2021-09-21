@@ -69,7 +69,7 @@ This is an optional functionality, but very useful.
   - \*\*Though available, not supported by Rainmeter. **Using _rgb, rgba, hex_ or _hexa_ recommended**.
   4. **filePath:**(optional, default: current filepath) The file where the _section_ is in or where value is supposed to be written.
       - **Important**: ```You must use [[filePath]] to enclose file paths. For example [[#ROOTCONFIGPATH#Dependencies\Variables.inc]].```
-  5. **actionSection:**(optional, no default) The section where the [ColorChangeAction](https://github.com/deathcrafter/ColorPickerUI/new/master?readme=1#custom-action) is defined. The bangs will be executed after and only if a color is choosen, and before OnFinishAction.
+  5. **actionSection:**(optional, no default) The section where the [ColorChangeAction](https://github.com/deathcrafter/ColorPickerUI#custom-action) is defined. The bangs will be executed after and only if a color is choosen, and before OnFinishAction.
   
   The arguments must be in order and optional arguments must not be skipped if the next argument is to be used. Only file name can be an empty string(**''**) to use default value.
 - `Example`:
