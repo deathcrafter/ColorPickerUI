@@ -2,7 +2,8 @@
 
 An ColorPicker for skin authors with a lot of options. Happy skinning!
 
-https://user-images.githubusercontent.com/77834863/130698700-22820e92-09ed-4825-bda5-6055dae09a88.mp4
+https://user-images.githubusercontent.com/77834863/134878784-ce2bcd9e-5de2-45e3-9c1a-827629fba65f.mp4
+
 
 ## Usage Instructions:
 
@@ -129,6 +130,7 @@ Substitute="1":"Light", "0":"Dark"
 ## Credits:
 - **JSMorely** for **CursorColor Plugin**
 - **NightHawkSLO** for **Mouse Plugin**
+- **Jax** for **the Preview**
 
 ## Bug Reports:
 This being a new skin and a complex one, bugs might spring up. Please open an issue here and let me know. Thank you.😀
